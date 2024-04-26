@@ -1,2 +1,2 @@
 # Group4_Project1_SAD_20232024
-file:///C:/Users/User/Downloads/Y1S2/SAD/Proposal.pdf
+[Proposal.pdf](https://github.com/leomxue/Group4_Project1_SAD_20232024/files/15135971/Proposal.pdf)
