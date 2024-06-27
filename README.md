@@ -8,13 +8,14 @@
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/3fc775f8-4cd1-45a9-9f64-4944d90f702a)
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/de32ce8b-682e-4350-8a8f-68d28aa959a5)
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/626bd3fc-0174-44f0-89c9-819985b48445)
-![Uploading image.png…]()
+![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/151d1355-e8ae-40fc-8a4d-64448f969fc8)
+<br>
 
 
 ### Phase 1 Report :
-[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/Proposal.pdf) 
+[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/Proposal.pdf) <br>
 ### Phase 2 Report :
-[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%202.pdf)
+[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%202.pdf) <br>
 ### Phase 2 Report :
-[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%203.pdf)
+[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%203.pdf) <br>
 
