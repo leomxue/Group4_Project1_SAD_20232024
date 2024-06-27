@@ -1,8 +1,8 @@
 # SECD2613 ANALISIS DAN REKABENTUK SISTEM (SYSTEM ANALYSIS AND DESIGN) ----- Semester II 2023/2024
-## < Campus Resource Management System >
+## < Campus Resource Management System > 👩‍💻
 
-### Prototype Video Link :
-[Click Here](https://youtu.be/c-UCtWR59cA) <br> <br>
+### Prototype Video Link 🎥 :
+[Click Here](https://youtu.be/c-UCtWR59cA) <br> <br> 
 ### System Interface :
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/897a78e2-314a-47c2-8e86-0d110ea7cdb2)
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/3fc775f8-4cd1-45a9-9f64-4944d90f702a)
@@ -12,10 +12,10 @@
 <br>
 
 
-### Phase 1 Report :
+### Phase 1 Report 📁 :
 [Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/Proposal.pdf) <br>
-### Phase 2 Report :
+### Phase 2 Report 📁 :
 [Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%202.pdf) <br>
-### Phase 2 Report :
+### Phase 2 Report 📁 :
 [Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%203.pdf) <br>
 
