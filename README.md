@@ -59,15 +59,15 @@ Communication and Notification:
 <br>
 
 ### LOGICAL DFD AS-IS SYSTEM
-## Context Diagram
+#### Context Diagram
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147963500/d01c03f3-a899-41f2-9226-73aadcdb0e35)
-## Diagram 0
+#### Diagram 0
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147963500/7990c476-cc51-4ca4-8b2d-e0e4dfd556d1)
 <br>
 ### LOGICAL DFD (TO-BE) SYSTEM
-## Context Diagram
+#### Context Diagram
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147963500/eefb2399-1251-4087-be64-d0b70ab54e34)
-## Diagram 0
+#### Diagram 0
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147963500/113d4f28-2721-436d-ba95-2b817e8ddbb2)
 <br>
 ## Structure Chart
