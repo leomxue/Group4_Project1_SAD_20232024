@@ -57,6 +57,7 @@ Communication and Notification:
 #### -> 6.2 Receive Notifications
 #### -> 6.3 Check Notification History
 <br>
+
 ### LOGICAL DFD AS-IS SYSTEM
 ## Context Diagram
 ![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147963500/d01c03f3-a899-41f2-9226-73aadcdb0e35)
