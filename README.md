@@ -2,10 +2,8 @@
 ## < Campus Resource Management System >
 
 ### Prototype Video Link
-[Click Here](https://youtu.be/c-UCtWR59cA) <br>
-![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/c12ea74b-299e-4a83-ba05-fd1e5dc8aed8)
-![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/903d86df-ec2f-4a1d-973f-f4501464c932)
-![image](https://github.com/leomxue/Group4_Project1_SAD_20232024/assets/147922134/cc3d912a-432e-45e4-ae80-2e3580c4bd22)
+[Click Here](https://youtu.be/c-UCtWR59cA) <br> <br>
+
 
 
 ### Phase 1 Report :
