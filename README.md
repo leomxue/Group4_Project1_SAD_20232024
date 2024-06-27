@@ -1,2 +1,5 @@
-# Group4_Project1_SAD_20232024
+# SECD2613 ANALISIS DAN REKABENTUK SISTEM (SYSTEM ANALYSIS AND DESIGN)
+#### Semester II 2023/2024
+## Campus Resource Management System
+
 
